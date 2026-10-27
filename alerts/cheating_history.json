@@ -1,0 +1,58 @@
+[
+    {
+        "datetime": "2026-10-27 03:34 AM",
+        "student_id": 17,
+        "behavior": "Proximity Violation",
+        "confidence_score": "44.0%",
+        "screenshot_path": "E:\\Download\\ai_instant_training\\session-02\\Project3\\Cheating_Detection_Project\\alerts\\screenshots\\cheat_exam_video_01_id_17_20261027_033428.jpg"
+    },
+    {
+        "datetime": "2026-10-27 03:34 AM",
+        "student_id": 19,
+        "behavior": "Proximity Violation",
+        "confidence_score": "43.2%",
+        "screenshot_path": "E:\\Download\\ai_instant_training\\session-02\\Project3\\Cheating_Detection_Project\\alerts\\screenshots\\cheat_exam_video_01_id_19_20261027_033430.jpg"
+    },
+    {
+        "datetime": "2026-10-27 03:34 AM",
+        "student_id": 21,
+        "behavior": "Peeking Behavior",
+        "confidence_score": "22.4%",
+        "screenshot_path": "E:\\Download\\ai_instant_training\\session-02\\Project3\\Cheating_Detection_Project\\alerts\\screenshots\\cheat_exam_video_01_id_21_20261027_033434.jpg"
+    },
+    {
+        "datetime": "2026-10-27 03:34 AM",
+        "student_id": 31,
+        "behavior": "Phone Usage",
+        "confidence_score": "40.6%",
+        "screenshot_path": "E:\\Download\\ai_instant_training\\session-02\\Project3\\Cheating_Detection_Project\\alerts\\screenshots\\cheat_exam_video_01_id_31_20261027_033444.jpg"
+    },
+    {
+        "datetime": "2026-10-27 03:34 AM",
+        "student_id": 31,
+        "behavior": "Peeking Behavior",
+        "confidence_score": "35.5%",
+        "screenshot_path": "E:\\Download\\ai_instant_training\\session-02\\Project3\\Cheating_Detection_Project\\alerts\\screenshots\\cheat_exam_video_01_id_31_20261027_033447.jpg"
+    },
+    {
+        "datetime": "2026-10-27 03:34 AM",
+        "student_id": 31,
+        "behavior": "Proximity Violation",
+        "confidence_score": "21.5%",
+        "screenshot_path": "E:\\Download\\ai_instant_training\\session-02\\Project3\\Cheating_Detection_Project\\alerts\\screenshots\\cheat_exam_video_01_id_31_20261027_033451.jpg"
+    },
+    {
+        "datetime": "2026-10-27 03:34 AM",
+        "student_id": 33,
+        "behavior": "Proximity Violation",
+        "confidence_score": "31.0%",
+        "screenshot_path": "E:\\Download\\ai_instant_training\\session-02\\Project3\\Cheating_Detection_Project\\alerts\\screenshots\\cheat_exam_video_01_id_33_20261027_033452.jpg"
+    },
+    {
+        "datetime": "2026-10-27 03:34 AM",
+        "student_id": 47,
+        "behavior": "Proximity Violation",
+        "confidence_score": "33.7%",
+        "screenshot_path": "E:\\Download\\ai_instant_training\\session-02\\Project3\\Cheating_Detection_Project\\alerts\\screenshots\\cheat_exam_video_01_id_47_20261027_033454.jpg"
+    }
+]

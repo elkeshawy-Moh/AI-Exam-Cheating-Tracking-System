@@ -1,0 +1,7 @@
+*.mp4
+*.avi
+*.mkv
+*.pt
+firebase_key.json
+__pycache__/
+alerts/screenshots/
